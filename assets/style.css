@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+	background-color: #2C2F33;
+	margin-top: 10%;
+}
+
+#avatar {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+}
+
+#discord {
+	position: relative;
+	left: 44%;
+	margin: auto;
+	top: 0;
+	bottom: 0;
+	left: 44%;
+	right: 0;
+}
+
+#information {
+	margin-top: 50px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 19px;
+	color: white;
+}
+
+#tag {
+	margin-top: -28px;
+	margin-left: 0.50%;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+	color: white;
+}
